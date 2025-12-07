@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "いばら",
+  "base_artist": "Ado",
+  "createdAt": "2025-12-07T15:23:26.417506Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "いばら",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/01_いばら_Ado.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "いばら",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/02_いばら_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "いばら",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/03_いばら_Ado.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "いばら",
+      "artist": "Ado",
+      "has_synced": false,
+      "path": "select/pl_01_いばら_Ado.txt"
+    }
+  ]
+}
